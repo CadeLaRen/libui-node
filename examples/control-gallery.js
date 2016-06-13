@@ -162,4 +162,4 @@ win = window({hasMenubar: true, title: 'Control Gallery', width: 640, height: 48
 );
 
 win.show();
-libui.Ui.main();
+libui.startLoop();
